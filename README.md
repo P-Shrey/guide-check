@@ -1,5 +1,9 @@
 # Guide Check
 
+[![Live demo](https://img.shields.io/badge/demo-guide--check.vercel.app-black)](https://guide-check.vercel.app)
+![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 **Is this advertised NSW price guide defensible against comparable sales?**
 
 Guide Check takes a suburb, a property type, a land area and an advertised price guide, and
