@@ -222,3 +222,8 @@ docs/                   data report and front-end design notes
 ## Contributors
 
 Shrey Patel, Sushant Shrestha, Dheeransh Jain.
+
+## License
+
+Code is released under the [MIT License](LICENSE). The underlying sales data remains subject to
+the NSW Valuer General's terms of use.
