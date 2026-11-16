@@ -1,0 +1,161 @@
+case_id,suburb,postcode,property_type,land_area_m2,guide,label,guide_pct_of_sale,sale_price,contract_date,segment,address
+C01-100,CAMBRIDGE PARK,2747,house,809,1065000,defensible,100,1065000,2026-06-23,metro,42 Barker St
+C01-90,CAMBRIDGE PARK,2747,house,809,958000,borderline,90,1065000,2026-06-23,metro,42 Barker St
+C01-80,CAMBRIDGE PARK,2747,house,809,852000,underquoted,80,1065000,2026-06-23,metro,42 Barker St
+C01-70,CAMBRIDGE PARK,2747,house,809,746000,underquoted,70,1065000,2026-06-23,metro,42 Barker St
+C02-100,MARRICKVILLE,2204,house,297,1980000,defensible,100,1980000,2026-06-16,metro,42 Schwebel St
+C02-90,MARRICKVILLE,2204,house,297,1782000,borderline,90,1980000,2026-06-16,metro,42 Schwebel St
+C02-80,MARRICKVILLE,2204,house,297,1584000,underquoted,80,1980000,2026-06-16,metro,42 Schwebel St
+C02-70,MARRICKVILLE,2204,house,297,1386000,underquoted,70,1980000,2026-06-16,metro,42 Schwebel St
+C03-100,THORNLEIGH,2120,house,554,2590000,defensible,100,2590000,2025-12-13,metro,33 Eddy St
+C03-90,THORNLEIGH,2120,house,554,2331000,borderline,90,2590000,2025-12-13,metro,33 Eddy St
+C03-80,THORNLEIGH,2120,house,554,2072000,underquoted,80,2590000,2025-12-13,metro,33 Eddy St
+C03-70,THORNLEIGH,2120,house,554,1813000,underquoted,70,2590000,2025-12-13,metro,33 Eddy St
+C04-100,KINGS PARK,2148,house,557,1280000,defensible,100,1280000,2026-01-31,metro,58 Camorta Cl
+C04-90,KINGS PARK,2148,house,557,1152000,borderline,90,1280000,2026-01-31,metro,58 Camorta Cl
+C04-80,KINGS PARK,2148,house,557,1024000,underquoted,80,1280000,2026-01-31,metro,58 Camorta Cl
+C04-70,KINGS PARK,2148,house,557,896000,underquoted,70,1280000,2026-01-31,metro,58 Camorta Cl
+C05-100,GABLES,2765,house,325,1465000,defensible,100,1465000,2026-04-13,metro,6 Tanika St
+C05-90,GABLES,2765,house,325,1318000,borderline,90,1465000,2026-04-13,metro,6 Tanika St
+C05-80,GABLES,2765,house,325,1172000,underquoted,80,1465000,2026-04-13,metro,6 Tanika St
+C05-70,GABLES,2765,house,325,1025000,underquoted,70,1465000,2026-04-13,metro,6 Tanika St
+C06-100,SEAFORTH,2092,house,461,2550000,defensible,100,2550000,2025-11-01,metro,90 Kirkwood St
+C06-90,SEAFORTH,2092,house,461,2295000,borderline,90,2550000,2025-11-01,metro,90 Kirkwood St
+C06-80,SEAFORTH,2092,house,461,2040000,underquoted,80,2550000,2025-11-01,metro,90 Kirkwood St
+C06-70,SEAFORTH,2092,house,461,1785000,underquoted,70,2550000,2025-11-01,metro,90 Kirkwood St
+C07-100,FORESTVILLE,2087,house,708,1835000,defensible,100,1835000,2026-04-08,metro,646 Warringah Rd
+C07-90,FORESTVILLE,2087,house,708,1652000,borderline,90,1835000,2026-04-08,metro,646 Warringah Rd
+C07-80,FORESTVILLE,2087,house,708,1468000,underquoted,80,1835000,2026-04-08,metro,646 Warringah Rd
+C07-70,FORESTVILLE,2087,house,708,1284000,underquoted,70,1835000,2026-04-08,metro,646 Warringah Rd
+C08-100,PEARL BEACH,2256,house,1688,1475000,defensible,100,1475000,2026-02-13,metro,12 Crystal Ave
+C08-90,PEARL BEACH,2256,house,1688,1328000,borderline,90,1475000,2026-02-13,metro,12 Crystal Ave
+C08-80,PEARL BEACH,2256,house,1688,1180000,underquoted,80,1475000,2026-02-13,metro,12 Crystal Ave
+C08-70,PEARL BEACH,2256,house,1688,1032000,underquoted,70,1475000,2026-02-13,metro,12 Crystal Ave
+C09-100,HEATHCOTE,2233,house,1043,1230000,defensible,100,1230000,2026-04-01,metro,5 Dorset Rd
+C09-90,HEATHCOTE,2233,house,1043,1107000,borderline,90,1230000,2026-04-01,metro,5 Dorset Rd
+C09-80,HEATHCOTE,2233,house,1043,984000,underquoted,80,1230000,2026-04-01,metro,5 Dorset Rd
+C09-70,HEATHCOTE,2233,house,1043,861000,underquoted,70,1230000,2026-04-01,metro,5 Dorset Rd
+C10-100,WEST PYMBLE,2073,house,846,3701000,defensible,100,3701000,2025-12-03,metro,2 Yalleroi Ave
+C10-90,WEST PYMBLE,2073,house,846,3331000,borderline,90,3701000,2025-12-03,metro,2 Yalleroi Ave
+C10-80,WEST PYMBLE,2073,house,846,2961000,underquoted,80,3701000,2025-12-03,metro,2 Yalleroi Ave
+C10-70,WEST PYMBLE,2073,house,846,2591000,underquoted,70,3701000,2025-12-03,metro,2 Yalleroi Ave
+C11-100,THORNLEIGH,2120,unit,113,650000,defensible,100,650000,2026-06-29,metro,15/5 Thornleigh St
+C11-90,THORNLEIGH,2120,unit,113,585000,borderline,90,650000,2026-06-29,metro,15/5 Thornleigh St
+C11-80,THORNLEIGH,2120,unit,113,520000,underquoted,80,650000,2026-06-29,metro,15/5 Thornleigh St
+C11-70,THORNLEIGH,2120,unit,113,455000,underquoted,70,650000,2026-06-29,metro,15/5 Thornleigh St
+C12-100,DUNDAS,2117,unit,,1065000,defensible,100,1065000,2025-10-14,metro,3/157 Kissing Point Rd
+C12-90,DUNDAS,2117,unit,,958000,borderline,90,1065000,2025-10-14,metro,3/157 Kissing Point Rd
+C12-80,DUNDAS,2117,unit,,852000,underquoted,80,1065000,2025-10-14,metro,3/157 Kissing Point Rd
+C12-70,DUNDAS,2117,unit,,746000,underquoted,70,1065000,2025-10-14,metro,3/157 Kissing Point Rd
+C13-100,WOY WOY,2256,unit,,630000,defensible,100,630000,2026-06-26,metro,2/4 Billabong St
+C13-90,WOY WOY,2256,unit,,567000,borderline,90,630000,2026-06-26,metro,2/4 Billabong St
+C13-80,WOY WOY,2256,unit,,504000,underquoted,80,630000,2026-06-26,metro,2/4 Billabong St
+C13-70,WOY WOY,2256,unit,,441000,underquoted,70,630000,2026-06-26,metro,2/4 Billabong St
+C14-100,RHODES,2138,unit,134,1090000,defensible,100,1090000,2026-02-03,metro,805/42 Walker St
+C14-90,RHODES,2138,unit,134,981000,borderline,90,1090000,2026-02-03,metro,805/42 Walker St
+C14-80,RHODES,2138,unit,134,872000,underquoted,80,1090000,2026-02-03,metro,805/42 Walker St
+C14-70,RHODES,2138,unit,134,763000,underquoted,70,1090000,2026-02-03,metro,805/42 Walker St
+C15-100,THE ROCKS,2000,unit,278,16500000,defensible,100,16500000,2025-11-18,metro,1001/38 D Cumberland St
+C15-90,THE ROCKS,2000,unit,278,14850000,borderline,90,16500000,2025-11-18,metro,1001/38 D Cumberland St
+C15-80,THE ROCKS,2000,unit,278,13200000,underquoted,80,16500000,2025-11-18,metro,1001/38 D Cumberland St
+C15-70,THE ROCKS,2000,unit,278,11550000,underquoted,70,16500000,2025-11-18,metro,1001/38 D Cumberland St
+C16-100,CARINGBAH,2229,unit,,1700000,defensible,100,1700000,2025-11-22,metro,3/105 Denman Ave
+C16-90,CARINGBAH,2229,unit,,1530000,borderline,90,1700000,2025-11-22,metro,3/105 Denman Ave
+C16-80,CARINGBAH,2229,unit,,1360000,underquoted,80,1700000,2025-11-22,metro,3/105 Denman Ave
+C16-70,CARINGBAH,2229,unit,,1190000,underquoted,70,1700000,2025-11-22,metro,3/105 Denman Ave
+C17-100,CASTLE HILL,2154,unit,,1480000,defensible,100,1480000,2025-11-23,metro,1/53 Showground Rd
+C17-90,CASTLE HILL,2154,unit,,1332000,borderline,90,1480000,2025-11-23,metro,1/53 Showground Rd
+C17-80,CASTLE HILL,2154,unit,,1184000,underquoted,80,1480000,2025-11-23,metro,1/53 Showground Rd
+C17-70,CASTLE HILL,2154,unit,,1036000,underquoted,70,1480000,2025-11-23,metro,1/53 Showground Rd
+C18-100,LEICHHARDT,2040,unit,198,1360000,defensible,100,1360000,2026-07-03,metro,44/30 George St
+C18-90,LEICHHARDT,2040,unit,198,1224000,borderline,90,1360000,2026-07-03,metro,44/30 George St
+C18-80,LEICHHARDT,2040,unit,198,1088000,underquoted,80,1360000,2026-07-03,metro,44/30 George St
+C18-70,LEICHHARDT,2040,unit,198,952000,underquoted,70,1360000,2026-07-03,metro,44/30 George St
+C19-100,RIVERWOOD,2210,unit,,770000,defensible,100,770000,2025-11-14,metro,16/8 Coleridge St
+C19-90,RIVERWOOD,2210,unit,,693000,borderline,90,770000,2025-11-14,metro,16/8 Coleridge St
+C19-80,RIVERWOOD,2210,unit,,616000,underquoted,80,770000,2025-11-14,metro,16/8 Coleridge St
+C19-70,RIVERWOOD,2210,unit,,539000,underquoted,70,770000,2025-11-14,metro,16/8 Coleridge St
+C20-100,ERSKINEVILLE,2043,unit,,900000,defensible,100,900000,2026-07-06,metro,2102/8 Eve St
+C20-90,ERSKINEVILLE,2043,unit,,810000,borderline,90,900000,2026-07-06,metro,2102/8 Eve St
+C20-80,ERSKINEVILLE,2043,unit,,720000,underquoted,80,900000,2026-07-06,metro,2102/8 Eve St
+C20-70,ERSKINEVILLE,2043,unit,,630000,underquoted,70,900000,2026-07-06,metro,2102/8 Eve St
+C21-100,QUIRINDI,2343,house,1166,660000,defensible,100,660000,2026-05-08,regional,6 McCarthy Pl
+C21-90,QUIRINDI,2343,house,1166,594000,borderline,90,660000,2026-05-08,regional,6 McCarthy Pl
+C21-80,QUIRINDI,2343,house,1166,528000,underquoted,80,660000,2026-05-08,regional,6 McCarthy Pl
+C21-70,QUIRINDI,2343,house,1166,462000,underquoted,70,660000,2026-05-08,regional,6 McCarthy Pl
+C22-100,NARARA,2250,house,792,1150000,defensible,100,1150000,2026-07-08,regional,28 Strand Ave
+C22-90,NARARA,2250,house,792,1035000,borderline,90,1150000,2026-07-08,regional,28 Strand Ave
+C22-80,NARARA,2250,house,792,920000,underquoted,80,1150000,2026-07-08,regional,28 Strand Ave
+C22-70,NARARA,2250,house,792,805000,underquoted,70,1150000,2026-07-08,regional,28 Strand Ave
+C23-100,GIRARDS HILL,2480,house,544,659000,defensible,100,659000,2026-04-21,regional,6 Parade St
+C23-90,GIRARDS HILL,2480,house,544,593000,borderline,90,659000,2026-04-21,regional,6 Parade St
+C23-80,GIRARDS HILL,2480,house,544,527000,underquoted,80,659000,2026-04-21,regional,6 Parade St
+C23-70,GIRARDS HILL,2480,house,544,461000,underquoted,70,659000,2026-04-21,regional,6 Parade St
+C24-100,SKENNARS HEAD,2478,house,680,1890000,defensible,100,1890000,2026-04-23,regional,12 Greenview Pl
+C24-90,SKENNARS HEAD,2478,house,680,1701000,borderline,90,1890000,2026-04-23,regional,12 Greenview Pl
+C24-80,SKENNARS HEAD,2478,house,680,1512000,underquoted,80,1890000,2026-04-23,regional,12 Greenview Pl
+C24-70,SKENNARS HEAD,2478,house,680,1323000,underquoted,70,1890000,2026-04-23,regional,12 Greenview Pl
+C25-100,TUMBARUMBA,2653,house,,600000,defensible,100,600000,2026-06-09,regional,7 Albury St
+C25-90,TUMBARUMBA,2653,house,,540000,borderline,90,600000,2026-06-09,regional,7 Albury St
+C25-80,TUMBARUMBA,2653,house,,480000,underquoted,80,600000,2026-06-09,regional,7 Albury St
+C25-70,TUMBARUMBA,2653,house,,420000,underquoted,70,600000,2026-06-09,regional,7 Albury St
+C26-100,NARRANDERA,2700,house,734,255000,defensible,100,255000,2026-04-10,regional,48 Frederica St
+C26-90,NARRANDERA,2700,house,734,230000,borderline,90,255000,2026-04-10,regional,48 Frederica St
+C26-80,NARRANDERA,2700,house,734,204000,underquoted,80,255000,2026-04-10,regional,48 Frederica St
+C26-70,NARRANDERA,2700,house,734,178000,underquoted,70,255000,2026-04-10,regional,48 Frederica St
+C27-100,FLINDERS,2529,house,312,1065000,defensible,100,1065000,2026-02-06,regional,150 A Pioneer Dr
+C27-90,FLINDERS,2529,house,312,958000,borderline,90,1065000,2026-02-06,regional,150 A Pioneer Dr
+C27-80,FLINDERS,2529,house,312,852000,underquoted,80,1065000,2026-02-06,regional,150 A Pioneer Dr
+C27-70,FLINDERS,2529,house,312,746000,underquoted,70,1065000,2026-02-06,regional,150 A Pioneer Dr
+C28-100,COOLAH,2843,house,1126,365000,defensible,100,365000,2025-12-02,regional,101 Binnia St
+C28-90,COOLAH,2843,house,1126,328000,borderline,90,365000,2025-12-02,regional,101 Binnia St
+C28-80,COOLAH,2843,house,1126,292000,underquoted,80,365000,2025-12-02,regional,101 Binnia St
+C28-70,COOLAH,2843,house,1126,255000,underquoted,70,365000,2025-12-02,regional,101 Binnia St
+C29-100,GLOUCESTER,2422,house,948,675000,defensible,100,675000,2026-05-01,regional,27 Cook St
+C29-90,GLOUCESTER,2422,house,948,608000,borderline,90,675000,2026-05-01,regional,27 Cook St
+C29-80,GLOUCESTER,2422,house,948,540000,underquoted,80,675000,2026-05-01,regional,27 Cook St
+C29-70,GLOUCESTER,2422,house,948,472000,underquoted,70,675000,2026-05-01,regional,27 Cook St
+C30-100,BATHURST,2795,house,411,555000,defensible,100,555000,2026-01-12,regional,147 Seymour St
+C30-90,BATHURST,2795,house,411,500000,borderline,90,555000,2026-01-12,regional,147 Seymour St
+C30-80,BATHURST,2795,house,411,444000,underquoted,80,555000,2026-01-12,regional,147 Seymour St
+C30-70,BATHURST,2795,house,411,388000,underquoted,70,555000,2026-01-12,regional,147 Seymour St
+C31-100,WOLLONGONG,2500,unit,214,2750000,defensible,100,2750000,2026-05-22,regional,15/21 Wilson St
+C31-90,WOLLONGONG,2500,unit,214,2475000,borderline,90,2750000,2026-05-22,regional,15/21 Wilson St
+C31-80,WOLLONGONG,2500,unit,214,2200000,underquoted,80,2750000,2026-05-22,regional,15/21 Wilson St
+C31-70,WOLLONGONG,2500,unit,214,1925000,underquoted,70,2750000,2026-05-22,regional,15/21 Wilson St
+C32-100,NEW LAMBTON,2305,unit,,940000,defensible,100,940000,2026-06-19,regional,1/131 A St James Rd
+C32-90,NEW LAMBTON,2305,unit,,846000,borderline,90,940000,2026-06-19,regional,1/131 A St James Rd
+C32-80,NEW LAMBTON,2305,unit,,752000,underquoted,80,940000,2026-06-19,regional,1/131 A St James Rd
+C32-70,NEW LAMBTON,2305,unit,,658000,underquoted,70,940000,2026-06-19,regional,1/131 A St James Rd
+C33-100,COLEDALE,2515,unit,,1556000,defensible,100,1555500,2025-11-11,regional,10/738 Lawrence Hargrave Dr
+C33-90,COLEDALE,2515,unit,,1400000,borderline,90,1555500,2025-11-11,regional,10/738 Lawrence Hargrave Dr
+C33-80,COLEDALE,2515,unit,,1244000,underquoted,80,1555500,2025-11-11,regional,10/738 Lawrence Hargrave Dr
+C33-70,COLEDALE,2515,unit,,1089000,underquoted,70,1555500,2025-11-11,regional,10/738 Lawrence Hargrave Dr
+C34-100,TAREE,2430,unit,,240000,defensible,100,240000,2026-02-20,regional,14/7 Manning River Dr
+C34-90,TAREE,2430,unit,,216000,borderline,90,240000,2026-02-20,regional,14/7 Manning River Dr
+C34-80,TAREE,2430,unit,,192000,underquoted,80,240000,2026-02-20,regional,14/7 Manning River Dr
+C34-70,TAREE,2430,unit,,168000,underquoted,70,240000,2026-02-20,regional,14/7 Manning River Dr
+C35-100,WINDALE,2306,unit,,460000,defensible,100,460000,2026-03-17,regional,35 Corona St
+C35-90,WINDALE,2306,unit,,414000,borderline,90,460000,2026-03-17,regional,35 Corona St
+C35-80,WINDALE,2306,unit,,368000,underquoted,80,460000,2026-03-17,regional,35 Corona St
+C35-70,WINDALE,2306,unit,,322000,underquoted,70,460000,2026-03-17,regional,35 Corona St
+C36-100,NEWCASTLE,2300,unit,70,1030000,defensible,100,1030000,2026-05-01,regional,204/75 Shortland Esp
+C36-90,NEWCASTLE,2300,unit,70,927000,borderline,90,1030000,2026-05-01,regional,204/75 Shortland Esp
+C36-80,NEWCASTLE,2300,unit,70,824000,underquoted,80,1030000,2026-05-01,regional,204/75 Shortland Esp
+C36-70,NEWCASTLE,2300,unit,70,721000,underquoted,70,1030000,2026-05-01,regional,204/75 Shortland Esp
+C37-100,CHARLESTOWN,2290,unit,181,1100000,defensible,100,1100000,2026-03-13,regional,2/17 Milson St
+C37-90,CHARLESTOWN,2290,unit,181,990000,borderline,90,1100000,2026-03-13,regional,2/17 Milson St
+C37-80,CHARLESTOWN,2290,unit,181,880000,underquoted,80,1100000,2026-03-13,regional,2/17 Milson St
+C37-70,CHARLESTOWN,2290,unit,181,770000,underquoted,70,1100000,2026-03-13,regional,2/17 Milson St
+C38-100,BATEHAVEN,2536,unit,,780000,defensible,100,780000,2025-10-27,regional,2/374 Beach Rd
+C38-90,BATEHAVEN,2536,unit,,702000,borderline,90,780000,2025-10-27,regional,2/374 Beach Rd
+C38-80,BATEHAVEN,2536,unit,,624000,underquoted,80,780000,2025-10-27,regional,2/374 Beach Rd
+C38-70,BATEHAVEN,2536,unit,,546000,underquoted,70,780000,2025-10-27,regional,2/374 Beach Rd
+C39-100,WOLLONGONG,2500,unit,88,650000,defensible,100,650000,2026-04-02,regional,11/13 Keira St
+C39-90,WOLLONGONG,2500,unit,88,585000,borderline,90,650000,2026-04-02,regional,11/13 Keira St
+C39-80,WOLLONGONG,2500,unit,88,520000,underquoted,80,650000,2026-04-02,regional,11/13 Keira St
+C39-70,WOLLONGONG,2500,unit,88,455000,underquoted,70,650000,2026-04-02,regional,11/13 Keira St
+C40-100,MORUYA,2537,unit,221,775000,defensible,100,775000,2025-11-21,regional,10 A Mirrabooka Ave
+C40-90,MORUYA,2537,unit,221,698000,borderline,90,775000,2025-11-21,regional,10 A Mirrabooka Ave
+C40-80,MORUYA,2537,unit,221,620000,underquoted,80,775000,2025-11-21,regional,10 A Mirrabooka Ave
+C40-70,MORUYA,2537,unit,221,542000,underquoted,70,775000,2025-11-21,regional,10 A Mirrabooka Ave

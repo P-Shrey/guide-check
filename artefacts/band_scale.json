@@ -1,0 +1,19 @@
+{
+  "median_abs_error_pct": {
+    "metro|house": 18.1,
+    "metro|unit": 23.0,
+    "regional|house": 17.4,
+    "regional|unit": 25.4,
+    "all": 20.4
+  },
+  "n": 400,
+  "window": "test, excluding controlled cases",
+  "seed": 20261006,
+  "calibration_window_for_comparison": {
+    "metro|house": 15.4,
+    "metro|unit": 15.6,
+    "regional|house": 15.3,
+    "regional|unit": 25.2,
+    "all": 17.5
+  }
+}

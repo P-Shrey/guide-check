@@ -1,0 +1,9 @@
+# Not needed to serve the site; keeps the upload and function bundle small.
+predictions/
+results/
+examples/
+docs/
+data/raw/
+.vscode/
+**/__pycache__/
+*.zip
